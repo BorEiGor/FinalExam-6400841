@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Meteor
   layers:
   - Default
   - TransparentFX
@@ -41,9 +43,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 3350224893
+    locked: 0
   - name: Point
     uniqueID: 520488093
     locked: 0
   - name: Meteor
     uniqueID: 85160845
+    locked: 0
+  - name: player
+    uniqueID: 824342341
     locked: 0
